@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8de1caba65cf9f44bb6a88cf6f136389
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - fireSound: {instanceID: 0}
+  - bulletPrefab: {fileID: 4635375159980501409, guid: d46c84704e5fd7b4b8fc7e9e61e28d59, type: 3}
+  - firePoint: {instanceID: 0}
+  - playerCamera: {instanceID: 0}
+  - ammoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cyber Outlaw.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 779f6724454a60645961217f1c5178db
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8932f130ba403c641bea1fc2dd32e10a
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: cfb367be42bcb024aa7467fe0978e00c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
